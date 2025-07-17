@@ -1,0 +1,25 @@
+{
+  "name": "deploy-railway",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gio71220924/deploy-railway.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gio71220924/deploy-railway/issues"
+  },
+  "homepage": "https://github.com/Gio71220924/deploy-railway#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "multer": "^2.0.1",
+    "tesseract.js": "^6.0.1"
+  }
+}

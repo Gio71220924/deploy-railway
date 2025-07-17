@@ -1,1 +1,0 @@
-Ini backend OCR nya
